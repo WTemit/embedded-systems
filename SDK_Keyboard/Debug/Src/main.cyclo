@@ -1,0 +1,8 @@
+../Src/main.c:219:16:key_get	7
+../Src/main.c:130:6:SystemClock_Config	1
+../Src/main.c:179:6:Buzzer_Init	1
+../Src/main.c:213:6:oled_Reset	1
+../Src/main.c:245:13:show_time	1
+../Src/main.c:256:6:Timer	17
+../Src/main.c:76:5:main	1
+../Src/main.c:373:6:Error_Handler	1
